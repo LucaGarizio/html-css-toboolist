@@ -45,3 +45,44 @@
     margin-top: 50px;
     border-radius: 10px;
  }
+
+    /* sezione add */
+ #task-add{
+    width: 100%;
+    border-bottom: 1px solid grey;
+    line-height: 50px;
+    margin-bottom: 50px;
+ }
+
+ .button{
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+
+ }
+
+#button-task{
+    background-color: #6495ED;
+    margin-left: 40px;
+    color: white;  
+}
+
+#button-section{
+    width: 120px;
+}
+
+/* sezione task */
+
+.task{
+    margin-left: 40px;
+    height: 300px;
+}
+
+.title-task{
+    margin-bottom: 5px;
+}
+
+.symbol{
+    color: green;
+
+}
